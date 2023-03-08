@@ -1,0 +1,14 @@
+@font-face {
+    font-family: Determination Sans Web;
+    src: url(https://www.fontspace.com/get/family/j2px2);
+    }
+    .messageContent-2t3eCI{font-family: Determination Sans Web !important; }
+body {
+    background-color: #792121;
+    font-family: Determination Sans Web;
+    font-size:25px;
+}
+div{
+    font-family: Determination Sans Web;
+    font-size:25px;
+}

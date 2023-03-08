@@ -1,0 +1,29 @@
+@import url(https://www.fontspace.com/get/family/j2px2);
+
+* {
+    font-family: Determination Sans Web;
+}
+body {
+
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+.bg {
+    background: url('https://i.ytimg.com/vi/u9BOvW2rDlI/maxresdefault.jpg')
+    no-repeat center center/cover;
+    width: 100vw;
+    height: 100vh;
+    filter: blur(30px);
+    z-index: -1;
+    position: absolute;
+}
+.loading-text {
+    font-size: 50px;
+    color: #fff;
+    text-shadow: 2px 2px 5px black;
+}
